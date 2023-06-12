@@ -15,6 +15,10 @@ AI or Not? AI Generated Images Detector
 https://huggingface.co/datasets/competitions/aiornot
 ```
 
+## Model
+Vision Transformer (ViT)
+
+
 ## Pre-trained Model
  ```
  https://huggingface.co/AtefeHassani/vit-base-patch16-224-in21k-aiornot/tree/main
