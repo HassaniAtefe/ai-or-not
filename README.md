@@ -16,8 +16,7 @@ https://huggingface.co/datasets/competitions/aiornot
 ```
 
 ## Model
-Vision Transformer (ViT)
-
+![Vision Transformer (ViT)](https://github.com/HassaniAtefe/ai-or-not/blob/main/vit_figure.png)
 
 ## Pre-trained Model
  ```
